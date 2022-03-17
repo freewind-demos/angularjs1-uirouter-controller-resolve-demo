@@ -5,5 +5,5 @@ AngularJS1 "@uirouter" Controller "resolve" Demo
 
 ```
 npm install
-npm run demo
+npm start
 ```
